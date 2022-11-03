@@ -11,3 +11,5 @@ reader.setProperty('rate', 170)     # speech rate
 for i in book_read:
     reader.say(i)
     reader.runAndWait()
+
+# loaded file for test purposes, downloaded from free ebook source
